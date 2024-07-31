@@ -1,0 +1,1 @@
+ffmpeg -i ./video.mp4 -q:v 1 ./temp/input/%d.jpg
